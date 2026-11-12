@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.32</title>
-      <pubDate>Fri, 13 Nov 2026 09:34:09 +1100</pubDate>
-      <sparkle:version>46</sparkle:version>
-      <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+      <title>Snowpile 1.0.33</title>
+      <pubDate>Fri, 13 Nov 2026 10:21:47 +1100</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Коты мёрзнут: в холод дрожат, подержи курсор рядом - согреются и замурчат. В сильный мороз надевают шарфы и греются на окне, в котором ты работаешь. Ныряют в сугроб тем выше, чем он глубже, а в низкий погружаются не целиком. Когда карабкаются, перебирают передними лапами.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.32-46/Snowpile.zip" length="7425788" type="application/octet-stream" sparkle:edSignature="Eyk7N0Tq73q+wVuNf7AIKAihhs6Vz14QzWfpcSFmoXS8dzcPFBle4nvmi7Bxf8Oeotb2WsE/QeJNhH7wICoPAw=="/>
+      <description><![CDATA[Со временем коты успокаиваются: через час больше лежат и спят, поиграешь с ними - снова оживятся. В тепло на улице не дрожат. Снег и коты подлетают со всех выросших иконок Dock, с дальних слабее.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.33-48/Snowpile.zip" length="7426708" type="application/octet-stream" sparkle:edSignature="/ZAwFXjYloyEddn73XfMHtWWHLldxf+moX+o2plbpjikIyqvXxley86jPh2kj+t4bm2zOk6lhwNDx2Y1WzJ6CA=="/>
     </item>
   </channel>
 </rss>
