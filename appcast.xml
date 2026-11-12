@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.25</title>
-      <pubDate>Fri, 13 Nov 2026 00:22:21 +1100</pubDate>
-      <sparkle:version>39</sparkle:version>
-      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+      <title>Snowpile 1.0.26</title>
+      <pubDate>Fri, 13 Nov 2026 01:17:43 +1100</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Коты живут по суточному ритму: бодрые до рассвета и вечером, сонные днём и глубокой ночью. Кот больше не топчется на месте. На увеличенной иконке Dock кот стоит сверху. Поглядывание друг на друга теперь поворотом головы. Новая анимация карабканья по краю окна.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.25-39/Snowpile.zip" length="6910947" type="application/octet-stream" sparkle:edSignature="znWfBgKcjT1yQTfBazd7wImj9Iey5Qt0/AgpgUpMKr8PJ5QE175fCMJ0JvZKvQmBGs5c4zpl4mA+RSHtEWf+Bg=="/>
+      <description><![CDATA[Снег по настоящей погоде: своя погода в твоём городе, снежное радио (снег оттуда, где он идёт прямо сейчас), как на самом деле с прогнозом и машина времени с легендарными снегопадами. В мороз у котов пар изо рта, они сидят буханкой и греются кучкой, в оттепель отряхиваются. Вечерний тыгыдык, медленное моргание, Черныш приносит снежок, Марси гоняет его, Муфаса курлычет, ком снега на голову, чих от снежинки, коты вылизывают друг друга. На окна прилетает снегирь.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.26-40/Snowpile.zip" length="7260795" type="application/octet-stream" sparkle:edSignature="6LTkdxFWirXx1B0ioJn6+WrzH4g0V3pU3T1+gXObMo74hIpSHH4kkr7WyQgANHDlAgyQJ92LxWmIH8vtQf2wCA=="/>
     </item>
   </channel>
 </rss>
