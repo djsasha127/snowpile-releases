@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.24</title>
-      <pubDate>Thu, 12 Nov 2026 23:53:54 +1100</pubDate>
-      <sparkle:version>38</sparkle:version>
-      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <title>Snowpile 1.0.25</title>
+      <pubDate>Fri, 13 Nov 2026 00:22:21 +1100</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Коты играют со снежинками и со снегом. Волна увеличивающихся иконок подбрасывает кота дальше. Кот в конце окна или Дока перепрыгивает снегоуборщик. Если приложение упадёт, отчёт о сбое придёт автору сам.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.24-38/Snowpile.zip" length="6904849" type="application/octet-stream" sparkle:edSignature="Msggi7D41s7hXxfeCnrjNOhqABSmQwRBm8nJXSF72WFgG9H6l1HnUsfND3x+e7wvINBfy4eD+lP0qPWJsHLCDg=="/>
+      <description><![CDATA[Коты живут по суточному ритму: бодрые до рассвета и вечером, сонные днём и глубокой ночью. Кот больше не топчется на месте. На увеличенной иконке Dock кот стоит сверху. Поглядывание друг на друга теперь поворотом головы. Новая анимация карабканья по краю окна.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.25-39/Snowpile.zip" length="6910947" type="application/octet-stream" sparkle:edSignature="znWfBgKcjT1yQTfBazd7wImj9Iey5Qt0/AgpgUpMKr8PJ5QE175fCMJ0JvZKvQmBGs5c4zpl4mA+RSHtEWf+Bg=="/>
     </item>
   </channel>
 </rss>
