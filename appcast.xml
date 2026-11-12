@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.27</title>
-      <pubDate>Fri, 13 Nov 2026 08:31:56 +1100</pubDate>
-      <sparkle:version>41</sparkle:version>
-      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <title>Snowpile 1.0.28</title>
+      <pubDate>Fri, 13 Nov 2026 08:38:27 +1100</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Новый год: гирлянда по окнам, ёлка с игрушками слева от Dock и подарки справа, колпаки Деда Мороза на котах (настройка «Праздники»: по датам, всегда или выключено). Коты больше не зависают в воздухе над Dock. Черныш шипит только на того, кто сел рядом. Ночью у Черныша светятся глаза, Марси сгоняет Муфасу с тёплого места, снегирь поёт.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.27-41/Snowpile.zip" length="7386203" type="application/octet-stream" sparkle:edSignature="DzDiTclOfjsIm09sORz6kWjsbHbK316WOeMrsNvTV+S+bSxecdngKoMtnDVSBu7FJLoPHy8GqlVDO+eb1cA7Bg=="/>
+      <description><![CDATA[Исправлен вылет приложения (ошибка в звуке). Снегоуборщик можно отозвать из меню, а в настройках выключить, чтобы сам не приезжал. Новые обновления теперь видно по красной точке на снежинке в строке меню.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.28-42/Snowpile.zip" length="7401928" type="application/octet-stream" sparkle:edSignature="FUzjiJbSQT1kyQQ47eliKmqjt+bTlBzOOiOOcYSZ4oTsI/UiSBFZRY2x/hKCemB7lPixmjll3jWX/kJmXSgZAQ=="/>
     </item>
   </channel>
 </rss>
