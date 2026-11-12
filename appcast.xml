@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.11</title>
-      <pubDate>Thu, 12 Nov 2026 20:23:15 +1100</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <title>Snowpile 1.0.12</title>
+      <pubDate>Thu, 12 Nov 2026 20:36:53 +1100</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Коты едят тунец по двое, носом в банке, третий ждёт очереди. Снегоуборщик наверху теперь помещается в строку меню, а когда он туда приезжает - настраивается в Настройках. Стряхнутый снег больше не пропадает. Снег у дока огибает его закруглённые края. Работает и на Mac с Intel.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.11-25/Snowpile.zip" length="2022099" type="application/octet-stream" sparkle:edSignature="O+xzkZmQcHG2EXO9708XmHtCJAyw9CaRKn80cBv5M1UcUDqott9BZmS1L41QCyhDSd5BoP21da9Esxdn3WV+Bw=="/>
+      <description><![CDATA[Пока называется Seasonlet. Коты в сугробе уходят под снег целиком и выглядывают одной головой, без снежков вокруг. Коты залезают на окно, если его верх ниже середины экрана, а с него - выше. Снегоуборщик счищает снег начисто, следа за ним не остаётся.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.12-26/Snowpile.zip" length="2040010" type="application/octet-stream" sparkle:edSignature="6n4h+O99mkctTrMbfNvh8se5NtYnd5tTTL/qayrmpq3N/NoTLSpFkRqLT3oQ8Tvr2qHzlq3ycyMa3Hym7jNtDg=="/>
     </item>
   </channel>
 </rss>
