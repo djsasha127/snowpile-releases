@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.14</title>
-      <pubDate>Thu, 12 Nov 2026 21:09:50 +1100</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <title>Snowpile 1.0.15</title>
+      <pubDate>Thu, 12 Nov 2026 21:27:23 +1100</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Исправлено обновление. Коты карабкаются на высокое окно: отталкиваются, повисают на краю, подтягиваются и радуются наверху. Снегоуборщик чистит и частично закрытые окна. На всплывающих окнах вроде подсказок в адресной строке снег больше не лежит. Из сугроба кот выпрыгивает там же, где нырнул.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.14-28/Snowpile.zip" length="2064805" type="application/octet-stream" sparkle:edSignature="55nnrPZXUNehgp/Qj5hEFzkBsiRvLKwmSkETgaTGFDbs94zd+q07VY+v9UUS1xiEKpC9TllGKcp1aIVGFhM1Bg=="/>
+      <description><![CDATA[Кошачьи догонялки теперь настоящая погоня: один убегает, другой догоняет и перепрыгивает. Никто не мяукает друг на друга нос к носу. Играют реже. Черныш не шипит на того, кто карабкается на окно, и шипит реже. Два кота не готовятся к прыжку в одном месте, второй ждёт.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.15-29/Snowpile.zip" length="2066062" type="application/octet-stream" sparkle:edSignature="FsHrPK9hUTmTuM7iTkE9s9Xr/jPFQIIrDWz85LLpwiRJ8F0bq9NVtJgcCWwxT7TOpm//3pPsW/MMZdrqyDkzAg=="/>
     </item>
   </channel>
 </rss>
