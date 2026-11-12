@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.29</title>
-      <pubDate>Fri, 13 Nov 2026 08:47:43 +1100</pubDate>
-      <sparkle:version>43</sparkle:version>
-      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+      <title>Snowpile 1.0.30</title>
+      <pubDate>Fri, 13 Nov 2026 08:50:21 +1100</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Понятно объяснено, что такое режимы погоды: в меню «Режим снега» у каждого есть подпись и кнопка «Что это за режимы?», в Настройках все режимы видны списком.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.29-43/Snowpile.zip" length="7450057" type="application/octet-stream" sparkle:edSignature="UcapCz0K5BPteI5cCSpOy329Ki/q3HmqjSFsBWFtBosoWASykpfSdBIRUCD860oq+JH9zF79bodeLarnKftlDg=="/>
+      <description><![CDATA[Режимы погоды коротко объяснены в обучении, оно покажется ещё раз.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.30-44/Snowpile.zip" length="7418273" type="application/octet-stream" sparkle:edSignature="4toRIvamU4KZkrrV4HEMWoIuFtM5KPqmalAlHFAJtEqVeMvV0W/TAY68beRGrdy125k5nXG33ghnmm0xxlWnCw=="/>
     </item>
   </channel>
 </rss>
