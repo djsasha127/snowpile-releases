@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.48</title>
-      <pubDate>Fri, 13 Nov 2026 18:40:50 +1100</pubDate>
-      <sparkle:version>63</sparkle:version>
-      <sparkle:shortVersionString>1.0.48</sparkle:shortVersionString>
+      <title>Snowpile 1.0.49</title>
+      <pubDate>Fri, 13 Nov 2026 18:50:20 +1100</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Снег, который видно над соседним окном, теперь можно смахнуть курсором, и снегоуборщик его тоже убирает. Снегоуборщик больше не роняет снег по дороге: толкает высокий сугроб и сбрасывает всё в конце окна.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.48-63/Snowpile.zip" length="7671175" type="application/octet-stream" sparkle:edSignature="0nYYjj5trzDxWe7Qj3MxhUhwjG9auFvcARNxo6FQN86v/cj6nI8myDFWJww1Qb+b/zL5MnBGUb0nOOr8BSXADA=="/>
+      <description><![CDATA[Долгое отсутствие: после суток сосульки, тропинки и подарок от Марси, после трёх дней коты обижены, после недели ледяной домик со снежным котом, после двух недель большое иглу с флажком и бурная встреча.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.49-64/Snowpile.zip" length="7696219" type="application/octet-stream" sparkle:edSignature="t/ERT5+K4MD1Zk11OZJ/qV48wBfakodu/qBWnalzHiYDRBoBbNMJITWhJiSG3/6bG7qRE8DJMsDfif0cQLIYBg=="/>
     </item>
   </channel>
 </rss>
