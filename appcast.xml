@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.46</title>
-      <pubDate>Fri, 13 Nov 2026 18:18:43 +1100</pubDate>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>1.0.46</sparkle:shortVersionString>
+      <title>Snowpile 1.0.47</title>
+      <pubDate>Fri, 13 Nov 2026 18:25:49 +1100</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Пока тебя нет, у котов своя жизнь: вернёшься - они спят в новых местах, на снегу следы и беспорядок, тем больше, чем дольше тебя не было. Шевельни курсором - придут здороваться. Во время записи и демонстрации экрана всё прячется. Когда печатаешь, коты не носятся по окну. Снегоуборщик толкает перед собой небольшой сугроб, лишнее падает с окна.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.46-61/Snowpile.zip" length="7664428" type="application/octet-stream" sparkle:edSignature="BnhaV3++prBtChSTO5v59K883p9imGQv/nAggJH/8a1zAkpNEYoHa4ZVC4cn/dFCqnlKQVRUgyQy8ApcAK9zDg=="/>
+      <description><![CDATA[Панель отладки снова открывается 10 кликами по версии в Настройках.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.47-62/Snowpile.zip" length="7671203" type="application/octet-stream" sparkle:edSignature="QMLYq5arg2ujD03zF2FiollQzSqTYgP6kFUpysoP+bQAN29zRqT1+gnffvvWWboFuUUScnCK43vzUCp5j1/ZCA=="/>
     </item>
   </channel>
 </rss>
