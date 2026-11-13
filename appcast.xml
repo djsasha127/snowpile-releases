@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.58</title>
-      <pubDate>Fri, 13 Nov 2026 22:39:18 +1100</pubDate>
-      <sparkle:version>73</sparkle:version>
-      <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
+      <title>Snowpile 1.0.59</title>
+      <pubDate>Sat, 14 Nov 2026 10:52:22 +1100</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Новая короткая инструкция: 4 шага, каждый делается действием. Подсказки по ходу в нужные моменты (выключаются в Настройках). Коты поднимаются вместе с иконками Dock, которые чуть приподнялись.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.58-73/Snowpile.zip" length="9533310" type="application/octet-stream" sparkle:edSignature="I33WGLzjLjDdpCdNyLKVP0ymIfOJCMwkBellWYKJWrGrNigZnR/qs00x0eTrsBlpY0gCTcpPV9KFB0rFCPjpCw=="/>
+      <description><![CDATA[Иней в углах окон после ночи теперь похож на иней. Кот на узком кусочке окна между другими окнами больше не ходит туда-сюда, а спрыгивает.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.59-74/Snowpile.zip" length="9529637" type="application/octet-stream" sparkle:edSignature="fmlw3d6wZgkCzKIpmvgSrKOZogIapNiQXMc7l6pDjVQ4/1vY3MY272T4jPAK/XYL5iwIXVr2sJT1qr4Nxy8QDw=="/>
     </item>
   </channel>
 </rss>
