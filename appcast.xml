@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.43</title>
-      <pubDate>Fri, 13 Nov 2026 17:05:11 +1100</pubDate>
-      <sparkle:version>58</sparkle:version>
-      <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+      <title>Snowpile 1.0.44</title>
+      <pubDate>Fri, 13 Nov 2026 17:25:57 +1100</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Автокормушка с поилкой выезжает из-под края экрана в 7, 10, 13, 16, 19 и 22 часа. Если потрясти окно, коты на нём подлетают, а кто карабкается - срывается. Снег больше не налипает на окна.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.43-58/Snowpile.zip" length="7618650" type="application/octet-stream" sparkle:edSignature="aYjeK5HCVWTHQo3SR5Yb4q/1ndlBJit8B7bXOsB+aZL4IzNczJATcPXUXX7pU6p0wAav+FK5p1YXLhnk+2HHDg=="/>
+      <description><![CDATA[Снег за уведомлением больше не просвечивает сквозь него. Коробка стала меньше - на одного кота.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.44-59/Snowpile.zip" length="7620307" type="application/octet-stream" sparkle:edSignature="yJOJMu7ijT4gJcUJiHBBW1DGRWmBuPGij1LfC1KrBlVZn0dcw43WC4nRh9jR/QxVoLSgQGtiq/n3oxKprz5SDw=="/>
     </item>
   </channel>
 </rss>
