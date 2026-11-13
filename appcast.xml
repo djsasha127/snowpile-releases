@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.38</title>
-      <pubDate>Fri, 13 Nov 2026 11:07:12 +1100</pubDate>
-      <sparkle:version>53</sparkle:version>
-      <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+      <title>Snowpile 1.0.39</title>
+      <pubDate>Fri, 13 Nov 2026 11:22:13 +1100</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Коты лазят только на окна с видимым краем, умеют запрыгнуть на край соседнего окна и зацепиться, а через верх перелезают по-настоящему. Пятна Марси больше не мигают.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.38-53/Snowpile.zip" length="7434473" type="application/octet-stream" sparkle:edSignature="F4A1zU85MiHlXyBx7VFVasHHFCtWBlkbgX/UstWpiI8WrkJ7oDTsfvWUFz3cYtjI8VZJOUSOW92s3LRttufBCw=="/>
+      <description><![CDATA[Кот перелезает через край окна покадрово, как в пиксельной анимации. У Марси голова одинаковая во всех кадрах. Скрытая панель отладки: 10 раз нажать на версию в Настройках.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.39-54/Snowpile.zip" length="7563575" type="application/octet-stream" sparkle:edSignature="+XoLcy/H2CEOEaJPDUeaAhrEm/KNJbctdoidGNua8V7n2PARworPgwv67UX+dZLBcJa9qVT456Go1f/eMhs4Cg=="/>
     </item>
   </channel>
 </rss>
