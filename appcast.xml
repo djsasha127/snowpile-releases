@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.47</title>
-      <pubDate>Fri, 13 Nov 2026 18:25:49 +1100</pubDate>
-      <sparkle:version>62</sparkle:version>
-      <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
+      <title>Snowpile 1.0.48</title>
+      <pubDate>Fri, 13 Nov 2026 18:40:50 +1100</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>1.0.48</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Панель отладки снова открывается 10 кликами по версии в Настройках.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.47-62/Snowpile.zip" length="7671203" type="application/octet-stream" sparkle:edSignature="QMLYq5arg2ujD03zF2FiollQzSqTYgP6kFUpysoP+bQAN29zRqT1+gnffvvWWboFuUUScnCK43vzUCp5j1/ZCA=="/>
+      <description><![CDATA[Снег, который видно над соседним окном, теперь можно смахнуть курсором, и снегоуборщик его тоже убирает. Снегоуборщик больше не роняет снег по дороге: толкает высокий сугроб и сбрасывает всё в конце окна.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.48-63/Snowpile.zip" length="7671175" type="application/octet-stream" sparkle:edSignature="0nYYjj5trzDxWe7Qj3MxhUhwjG9auFvcARNxo6FQN86v/cj6nI8myDFWJww1Qb+b/zL5MnBGUb0nOOr8BSXADA=="/>
     </item>
   </channel>
 </rss>
