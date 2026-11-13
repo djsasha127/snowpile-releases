@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.55</title>
-      <pubDate>Fri, 13 Nov 2026 20:36:48 +1100</pubDate>
-      <sparkle:version>70</sparkle:version>
-      <sparkle:shortVersionString>1.0.55</sparkle:shortVersionString>
+      <title>Snowpile 1.0.56</title>
+      <pubDate>Fri, 13 Nov 2026 21:58:18 +1100</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Новые звуки: смахивание снега курсором, коты едят и пьют, умываются, копают, кормушка жужжит и сыплет корм, кот отряхивается и чихает, приземление в снег, сосульки, новый звук снегоуборщика. Снегоуборщик теперь объезжает все засыпанные окна подряд.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.55-70/Snowpile.zip" length="9542718" type="application/octet-stream" sparkle:edSignature="hPD1W4x1pIx8n9K/a7UIuuYFHjck1yuQkBiAkiJWqtpet6iPamC2DDpNKMJ+c3yVTODzeocxuG4xN9yh4kcvBQ=="/>
+      <description><![CDATA[Все звуки проверены нейросетью и заменены те, что звучали не так: мяуканья, трели, питьё, корм, падение снега. Снегоуборщик и курсор убирают снег со всех окон, стоящих друг перед другом. Снег у Дока вровень со снегом на Доке.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.56-71/Snowpile.zip" length="9371528" type="application/octet-stream" sparkle:edSignature="qt8hiSIIV13mU5E5KJXOrseQIZvcbzc8syx+0CVfGBfZiSN3JovA/pi8djf8kOZyHkoqa99nxDrsJS2pFpU/Bw=="/>
     </item>
   </channel>
 </rss>
