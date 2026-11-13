@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.51</title>
-      <pubDate>Fri, 13 Nov 2026 19:35:16 +1100</pubDate>
-      <sparkle:version>66</sparkle:version>
-      <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
+      <title>Snowpile 1.0.52</title>
+      <pubDate>Fri, 13 Nov 2026 19:52:20 +1100</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Чем дольше вас не было, тем заметнее: через сутки сосульки, через 3 дня снег выше кота и вровень с Доком, через неделю иглу. Снегоуборщик переезжает на соседнее окно той же высоты. Курсор, оставленный на месте, держит снег под собой. Снег наметается к бокам Дока.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.51-66/Snowpile.zip" length="7718912" type="application/octet-stream" sparkle:edSignature="4hUnvQc2VjYPkZ7499nXsJKhy2Z6FbN9scn3EgbcIlNNhkqT2Vk5kt4LuBf1+OuICJui/oGIT5A83cJoLkSuCw=="/>
+      <description><![CDATA[Снег за время отсутствия считается от вашего режима снегопада и накопления и ложится поверх того, что было: меньше не становится. Снег сохраняется после перезапуска. Кормушка появляется и при широком Доке. Снег от снегоуборщика не сыплется назад и не лезет в строку меню.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.52-67/Snowpile.zip" length="7734031" type="application/octet-stream" sparkle:edSignature="HbxjS1NMynmpCbwwdepAOWKycFzm1teUS66fjUTATI3s8IHO0aTj8x0baT6PMWSCPmxZ5I0snjNsX6XUf7r6AQ=="/>
     </item>
   </channel>
 </rss>
