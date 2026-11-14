@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.67</title>
-      <pubDate>Sat, 14 Nov 2026 12:25:15 +1100</pubDate>
-      <sparkle:version>82</sparkle:version>
-      <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
+      <title>Snowpile 1.0.68</title>
+      <pubDate>Sat, 14 Nov 2026 12:41:01 +1100</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Когда Муфаса просит тунца - красная точка на снежинке и отдельная строка вверху меню. Если тунец уже выставлен, а ему не спрыгнуть, он спускается по краю окна или просит снять его - кликни по нему.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.67-82/Snowpile.zip" length="9558788" type="application/octet-stream" sparkle:edSignature="EVj7ZYFv5gwRutaaTXtcT6d5va8pkL+xAWz730tLGHyWrtvL8yt42jSJmk/wzXrQRxp1Dd2U+xeNtwvOqAtpAQ=="/>
+      <description><![CDATA[Муфаса просит тунца прямо под снежинкой. Если тунец выставлен, а он наверху - не дёргается: слезает по краю окна или просит снять его кликом.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.68-83/Snowpile.zip" length="9559068" type="application/octet-stream" sparkle:edSignature="+DY/2ssUghY7UTzOmAeLS3/WOUn7+rTE8m3v4/30ryLa9TM7kUSVclX5vqcDyraBZ+Eltt2IskOv3tVyr8KbDA=="/>
     </item>
   </channel>
 </rss>
