@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.60</title>
-      <pubDate>Sat, 14 Nov 2026 10:59:51 +1100</pubDate>
-      <sparkle:version>75</sparkle:version>
-      <sparkle:shortVersionString>1.0.60</sparkle:shortVersionString>
+      <title>Snowpile 1.0.61</title>
+      <pubDate>Sat, 14 Nov 2026 11:17:19 +1100</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Кот на узком кусочке окна теперь может вскарабкаться по боковой стенке окна рядом.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.60-75/Snowpile.zip" length="9531782" type="application/octet-stream" sparkle:edSignature="o0ZD7GMjXLH6x8ZZaXYGZxtZt85W3hJytkgqgw4XPzC+zL5QUrbdsLURJQZvE0mR9Xsu9GQIvv+44Ky/p/JZBw=="/>
+      <description><![CDATA[Муфаса и Марси больше не сидят друг напротив друга в одной позе: при встрече один обнюхивает, другой остаётся как был.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.61-76/Snowpile.zip" length="9537114" type="application/octet-stream" sparkle:edSignature="vZMky88Ia5o8YYNAIPvCAFVemX76NLAC1S5NPvBKUUBaQAyj1ghZ7PwjMxCtgHZiBm1/1ejG0TaJxpb83bQyBA=="/>
     </item>
   </channel>
 </rss>
