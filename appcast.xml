@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.75</title>
-      <pubDate>Sat, 14 Nov 2026 14:36:07 +1100</pubDate>
-      <sparkle:version>90</sparkle:version>
-      <sparkle:shortVersionString>1.0.75</sparkle:shortVersionString>
+      <title>Snowpile 1.0.76</title>
+      <pubDate>Sat, 14 Nov 2026 14:53:05 +1100</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>1.0.76</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Характеры котов во многом: Муфаса пугается шума и следит взглядом, Марси любопытная и сбрасывает снег с края окна. Со вторым экраном коты переходят туда, где ты работаешь.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.75-90/Snowpile.zip" length="9595925" type="application/octet-stream" sparkle:edSignature="myYA1720D1ds1nTwulMV/To/yUz8HzzibchJpki4QBDDva6HsoKAo44T0uO+FQq7qK0be7vsa65/rghXJT0+Ag=="/>
+      <description><![CDATA[Горки и санки на экране без Дока, ровный снег у Дока, настройки по вкладкам, окна Seasonlet больше не засыпает снегом сверху.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.76-91/Snowpile.zip" length="9628820" type="application/octet-stream" sparkle:edSignature="FEF1/6OKVCXHpm/jkKs7Fr5q84Bod0ZL1SBVj5d8a8oY872YFlBx0gEC7CbtjTCf1LoCmTtxRvOebXtva0l9CA=="/>
     </item>
   </channel>
 </rss>
