@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.74</title>
-      <pubDate>Sat, 14 Nov 2026 13:50:34 +1100</pubDate>
-      <sparkle:version>89</sparkle:version>
-      <sparkle:shortVersionString>1.0.74</sparkle:shortVersionString>
+      <title>Snowpile 1.0.75</title>
+      <pubDate>Sat, 14 Nov 2026 14:36:07 +1100</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>1.0.75</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Коты встречают снегоуборщик каждый раз по-разному, а при лёгкой тряске окна кто-то цепляется когтями и остаётся.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.74-89/Snowpile.zip" length="9580588" type="application/octet-stream" sparkle:edSignature="4k1YpLAboXmKrZZ1ZgI0fxCj/AB+7kZ4cynHipBpRUXBEheBDHMU4aOkqrCljR6QZrsGx4kbVCGBUcOBN4aqAQ=="/>
+      <description><![CDATA[Характеры котов во многом: Муфаса пугается шума и следит взглядом, Марси любопытная и сбрасывает снег с края окна. Со вторым экраном коты переходят туда, где ты работаешь.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.75-90/Snowpile.zip" length="9595925" type="application/octet-stream" sparkle:edSignature="myYA1720D1ds1nTwulMV/To/yUz8HzzibchJpki4QBDDva6HsoKAo44T0uO+FQq7qK0be7vsa65/rghXJT0+Ag=="/>
     </item>
   </channel>
 </rss>
