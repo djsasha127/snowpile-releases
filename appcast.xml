@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.73</title>
-      <pubDate>Sat, 14 Nov 2026 13:43:57 +1100</pubDate>
-      <sparkle:version>88</sparkle:version>
-      <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
+      <title>Snowpile 1.0.74</title>
+      <pubDate>Sat, 14 Nov 2026 13:50:34 +1100</pubDate>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>1.0.74</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Снегоуборщик проезжает стык между окнами под строкой меню, не исчезая. Коты наверху под строкой меню рисуются меньше, чтобы помещались целиком.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.73-88/Snowpile.zip" length="9576758" type="application/octet-stream" sparkle:edSignature="jnnFfVv5nkFafBgvENOR4Bi/pGj6X5gB0eWTIO7OCWo6nZJaC3hTo44U2Vwae7gg+EKxbDEfMAD710dGeg9BDw=="/>
+      <description><![CDATA[Коты встречают снегоуборщик каждый раз по-разному, а при лёгкой тряске окна кто-то цепляется когтями и остаётся.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.74-89/Snowpile.zip" length="9580588" type="application/octet-stream" sparkle:edSignature="4k1YpLAboXmKrZZ1ZgI0fxCj/AB+7kZ4cynHipBpRUXBEheBDHMU4aOkqrCljR6QZrsGx4kbVCGBUcOBN4aqAQ=="/>
     </item>
   </channel>
 </rss>
