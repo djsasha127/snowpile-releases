@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.86</title>
-      <pubDate>Tue, 17 Nov 2026 22:00:34 +1100</pubDate>
-      <sparkle:version>101</sparkle:version>
-      <sparkle:shortVersionString>1.0.86</sparkle:shortVersionString>
+      <title>Snowpile 1.0.87</title>
+      <pubDate>Wed, 18 Nov 2026 16:25:53 +1100</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>1.0.87</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Заставка показывает снег и котов на всех экранах. Каждый кот виден на том мониторе, где он был.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.86-101/Snowpile.zip" length="10968357" type="application/octet-stream" sparkle:edSignature="+dlzxfBMNrdcUBBb+vi57EP9esH1oOk5EuZWPkCoQ8LtOUPJjV4TjwgPp9lKYj23UOeGiE6+89HpfmhuEX/SBA=="/>
+      <description><![CDATA[Небольшой сюрприз от котов. И пара мелких улучшений.]]></description>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.87-102/Snowpile.zip" length="11073314" type="application/octet-stream" sparkle:edSignature="dCxfBIGKRUVyCoyVZoJw/miNjNx1+X69fZ2Ax+Ky2RSxcdFG2G9tlqeBaRPtjJ01hu0/JW24SfcE/GBfY1S9Cw=="/>
     </item>
   </channel>
 </rss>
