@@ -3,13 +3,13 @@
   <channel>
     <title>Snowpile</title>
     <item>
-      <title>Snowpile 1.0.110</title>
-      <pubDate>Sat, 28 Nov 2026 12:59:08 +1100</pubDate>
-      <sparkle:version>145</sparkle:version>
-      <sparkle:shortVersionString>1.0.110</sparkle:shortVersionString>
+      <title>Snowpile 1.0.111</title>
+      <pubDate>Sat, 28 Nov 2026 18:11:28 +1100</pubDate>
+      <sparkle:version>147</sparkle:version>
+      <sparkle:shortVersionString>1.0.111</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[Мелкие исправления и улучшения стабильности.]]></description>
-      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.110-145/Snowpile.zip" length="30748329" type="application/octet-stream" sparkle:edSignature="Z5i4+u6S4XLuPdyl9C7m9bdL0e4CW8jN2OWqpl9h08uAKz6utFSmRnfKGOVRabocftjDmrPbhv82sx8LXPbZAA=="/>
+      <enclosure url="https://github.com/djsasha127/snowpile-releases/releases/download/v1.0.111-147/Snowpile.zip" length="31317765" type="application/octet-stream" sparkle:edSignature="RdCVddlryFKNLkuotDwe8pp/apmo0mltcsHQfW1U//hia7V8bfSRNNb9qDp6bL1kr4N1153amkjtBV7wVKASBQ=="/>
     </item>
   </channel>
 </rss>
